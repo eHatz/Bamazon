@@ -10,9 +10,11 @@ Customer successfully places order
 ![customer-item-quantity](https://github.com/eHatz/Bamazon/blob/master/images/customer-item-quantity.PNG)
 
 Table before order
+
 ![table-before](https://github.com/eHatz/Bamazon/blob/master/images/table-before.PNG)
 
 Table after order
+
 ![table-after](https://github.com/eHatz/Bamazon/blob/master/images/table-after.PNG)
 
 
