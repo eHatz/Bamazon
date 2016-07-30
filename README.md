@@ -1,13 +1,16 @@
 CUSTOMER:
+___________________________________________________________________________________________________________
 
 Initializing the customer js file
 
 ![start-customer](https://github.com/eHatz/Bamazon/blob/master/images/start-customer.PNG)
 
+___________________________________________________________________________________________________________
 
 Shows what happens when user enters invalid inputs
 
 ![customer-prevents-invalid-ID's](https://github.com/eHatz/Bamazon/blob/master/images/customer-prevents-invalid%20ID's.PNG)
+
 ___________________________________________________________________________________________________________
 
 Customer successfully places order
@@ -30,6 +33,7 @@ ________________________________________________________________________________
 
 
 MANAGER:
+___________________________________________________________________________________________________________
 
 Initializing manager js file
 
