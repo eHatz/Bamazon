@@ -7,8 +7,7 @@ Initializing the customer js file
 
 Shows what happens when user enters invalid inputs
 
-![customer-prevents-invalid-ID's](https://github.com/eHatz/Bamazon/blob/master/images/customer-prevents-inv
-alid%20ID's.PNG)
+![customer-prevents-invalid-ID's](https://github.com/eHatz/Bamazon/blob/master/images/customer-prevents-invalid%20ID's.PNG)
 ___________________________________________________________________________________________________________
 
 Customer successfully places order
