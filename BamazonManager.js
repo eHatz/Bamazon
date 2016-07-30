@@ -67,7 +67,7 @@ inquirer.prompt({
 							};
 							console.log('Product ID: ' + res[idNumber].id + ' | Product Name: ' + res[idNumber].ProductName + ' | Price: ' +  res[idNumber].Price + ' | Quantity: ' + quantity);
 							connection.query('UPDATE products SET StockQuantity=' + quantity + ' WHERE ?', {id: answer.item}, function(err, res){
-								console.log('The quantity has been changed');
+								console.log('The quantity has been updated');
 							});
 						});
 					});
