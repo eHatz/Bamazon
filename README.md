@@ -1,5 +1,5 @@
 CUSTOMER:
-![start-customer](https://github.com/eHatz/Bamazon/blob/master/images/start-customer.PNG)
+[start-customer](https://github.com/eHatz/Bamazon/blob/master/images/start-customer.PNG)
 initializing the customer js file
 
 ![customer-prevents-invalid-ID's](https://github.com/eHatz/Bamazon/blob/master/images/customer-prevents-invalid%20ID's.PNG)
